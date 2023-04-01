@@ -8,7 +8,7 @@ const cheerio = require('cheerio');
 
 
 
-const puppeteer = require('puppeteer-core');
+import puppeteer from 'puppeteer';
 const chromium = require('chrome-aws-lambda');
 
 
